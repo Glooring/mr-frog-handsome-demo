@@ -32,6 +32,24 @@ Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](htt
 
 ---
 
+## Controls
+
+### On Desktop
+
+- **Move Left/Right**: **Arrow Keys**.
+- **Jump**: **Up Arrow** or **X**.
+- **Attack**: **Z**.
+- **Pause**: **Esc** or UI button.
+
+### On Mobile
+
+- **Move**: On-screen touch buttons for left and right movement.
+- **Jump**: Dedicated touch button.
+- **Attack**: Dedicated touch button.
+- **Pause**: Pause button on the screen.
+
+---
+
 ## Technologies and Concepts Used
 
 1. **Unity Engine (2021.x or higher)**:
@@ -57,39 +75,9 @@ Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](htt
 
 ---
 
-## Instructions for Installation and Running
-
-1. **Download**: Clone the repository from [GitHub](#).
-2. **Open in Unity**: Open the project in Unity 2021 or later.
-3. **Run**: Press the **Play** button in the Unity Editor to start testing.
-4. **Build**:
-   - **Desktop**: Build for PC, Mac & Linux Standalone to create an executable.
-   - **Mobile**: Build for Android or iOS.
-   - **WebGL**: Configure settings for WebGL and build for browser deployment.
-
----
-
-## Controls
-
-### On Desktop
-
-- **Move Left/Right**: **Arrow Keys**.
-- **Jump**: **Up Arrow** or **X**.
-- **Attack**: **Z**.
-- **Pause**: **Esc** or UI button.
-
-### On Mobile
-
-- **Move**: On-screen touch buttons for left and right movement.
-- **Jump**: Dedicated touch button.
-- **Attack**: Dedicated touch button.
-- **Pause**: Pause button on the screen.
-
----
-
 ## Credits
 
-- **Programming**: [Glooring]
+- **Programming**: Me
 - **Design**: [Cowboy Color](https://store.steampowered.com/developer/Nicalis)
 - **Sound and Music**: [soundtrack_1](https://store.steampowered.com/app/508990/Handsome_Mr_Frog/), [soundtrack_2](https://www.youtube.com/watch?v=oMgQJEcVToY&list=PLzjkiYUjXuevVG0fTOX4GCTzbU0ooHQ-O)
 
