@@ -2,7 +2,7 @@
 
 ## Demo
 
-Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](https://your-vercel-demo-link.vercel.app)
+Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](https://mr-frog-handsome-demo.vercel.app/)
 
 ---
 
