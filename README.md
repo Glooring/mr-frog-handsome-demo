@@ -1,7 +1,5 @@
 # Mr. Frog Handsome
 
-**Mr. Frog Handsome** is a 2D platformer developed in Unity, inspired by the game *Handsome Mr. Frog* on Steam. The player controls a charming orange frog who must navigate through challenging levels filled with obstacles and enemies, using his unique tongue attack and platforming skills.
-
 ## Demo
 
 Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](https://your-vercel-demo-link.vercel.app)
