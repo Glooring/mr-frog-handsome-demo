@@ -21,13 +21,10 @@ Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](htt
 2. **Unique Tongue Attack**:
    - Mr. Frog uses his tongue to attack enemies and interact with objects on the map, allowing for dynamic combat and puzzle-solving elements.
 
-3. **Hand-Drawn Visuals**:
-   - All visual assets are hand-crafted, giving the game a unique and whimsical art style.
-
-4. **Level Design and Obstacles**:
+3. **Level Design and Obstacles**:
    - Levels are filled with challenging platforming sections, moving platforms, and enemies with varied behaviors.
 
-5. **Custom Audio Management**:
+4. **Custom Audio Management**:
    - The game features a robust audio system for background music and sound effects. Players can adjust volume settings, which are saved persistently between game sessions.
 
 ---
