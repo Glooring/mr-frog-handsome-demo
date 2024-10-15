@@ -78,7 +78,7 @@ Play the demo on Vercel using the following link: [Mr. Frog Handsome - Demo](htt
 ## Credits
 
 - **Programming**: Me
-- **Design**: [Cowboy Color](https://store.steampowered.com/developer/Nicalis)
+- **Design**: Inspired by [Cowboy Color](https://store.steampowered.com/developer/Nicalis), implemented independently by me.
 - **Sound and Music**: [soundtrack_1](https://store.steampowered.com/app/508990/Handsome_Mr_Frog/), [soundtrack_2](https://www.youtube.com/watch?v=oMgQJEcVToY&list=PLzjkiYUjXuevVG0fTOX4GCTzbU0ooHQ-O)
 
 ---
